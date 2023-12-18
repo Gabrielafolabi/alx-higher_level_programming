@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def safe_print_list_integers(my_list[], x=0)
+def safe_print_list_integers(my_list[], x=0):
     real = 0
     for a in range(0, x):
         try:
