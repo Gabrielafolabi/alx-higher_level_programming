@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-def add(a, b):
-    return (a + b)
+
+def add(f, a):
+    """Return the addition of f and a."""
+    return (f + a)

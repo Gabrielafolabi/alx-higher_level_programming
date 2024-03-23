@@ -1,1 +1,1 @@
-0x02. Python - import & modules
+python is fun lets import some modules
